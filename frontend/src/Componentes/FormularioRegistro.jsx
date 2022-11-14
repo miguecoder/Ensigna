@@ -72,7 +72,7 @@ class FormularioRegistro extends React.Component {
                     <div className="row">
                         
                         <div className="col-md-6 mb-3">
-                            <label >Nombres</label>
+                            <label >Nombresssss</label>
                             <input type="text" className="form-control" name="Nombres" id="Usuario" placeholder="Nombres" required="" onChange={this.handleChange} value={data.Nombres}></input>
                         </div>
                         <div className="col-md-6 mb-3">
